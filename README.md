@@ -71,7 +71,7 @@ This application is implemented using **Avalonia UI** (a cross-platform alternat
 - Input validation prevents non-numeric values from causing application crashes.
 - Exceptions are caught and displayed gracefully in the result box.
 
-3. **Conclusion**
+## Conclusion
 
 This project demonstrates the effective use of Avalonia UI for building cross-platform desktop applications with asynchronous capabilities. It highlights the importance of Task.Run, ConfigureAwait, and robust error handling in modern application development.
 
